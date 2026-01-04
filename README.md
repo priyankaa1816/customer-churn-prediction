@@ -23,7 +23,6 @@ The dataset is sourced from a Kaggle competition and is **synthetically generate
 ### Files:
 - `train.csv` – Training data with the target variable `Exited`
 - `test.csv` – Test data without the target
-- `sample_submission.csv` – Submission format reference
 
 ---
 
